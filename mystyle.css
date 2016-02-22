@@ -1,0 +1,21 @@
+h1 {
+	color: red;
+
+
+}
+body {
+	background-color: steelblue;
+	text-align: center;
+	font-family: Cursive;
+
+}
+h2 {
+
+	color: blue;
+	font-family: Courier;
+}
+ul {
+	color: darkblue;
+	font-family: Helvetica;
+	text-align: left;
+}
